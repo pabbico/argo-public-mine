@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/pabbico/argo-public-mine.git
     targetRevision: 
-    
+    path: personal
    
 
   destination:
