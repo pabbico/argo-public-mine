@@ -8,7 +8,8 @@ spec:
   source:
     repoURL: https://github.com/pabbico/argo-public-mine.git
     targetRevision: 
-    path: /
+    
+   
 
   destination:
     server: https://kubernetes.default.svc
